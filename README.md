@@ -23,30 +23,7 @@ An automated computer-vision web application that enables faculty to mark classr
 - **Attendance History Log**: Detailed log of every session attended, including date, course, faculty, AI match confidence score, and cropped face snapshot taken during class.
 - **Face ID Profile**: View registered reference photo and AI vector status, with the ability to upload a new front-facing reference photo anytime.
 
----
 
-## 🚀 Quick Start Guide
-
-### 1. Prerequisites
-Ensure you have Python 3.10+ installed.
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-*(Already installed: `fastapi`, `uvicorn`, `opencv-python`, `numpy`, `pillow`, `jinja2`, `python-multipart`, `itsdangerous`)*
-
-### 3. Run the Application
-From the project directory:
-```bash
-python run.py
-```
-
-Open your browser and navigate to:
-👉 **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
-
----
 
 ## 🔑 Demo Login Credentials
 
