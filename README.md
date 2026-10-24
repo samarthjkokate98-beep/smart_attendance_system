@@ -25,23 +25,7 @@ An automated computer-vision web application that enables faculty to mark classr
 
 
 
-## 🔑 Demo Login Credentials
 
-The system includes pre-seeded demo accounts with sample biometric embeddings for quick testing:
-
-| Role | Username | Password | Notes |
-| :--- | :--- | :--- | :--- |
-| **Faculty** | `faculty` | `faculty123` | Full access to manage students, take attendance, view reports |
-| **Student (John)** | `student_john` | `student123` | Roll No: `CS2026-001` (Face enrolled) |
-| **Student (Alex)** | `student_alex` | `student123` | Roll No: `CS2026-003` (Face enrolled) |
-
-> 💡 **Tip:** On the Sign In page, you can also click the **"Faculty Demo"** or **"Student Demo"** quick-login buttons to log in with a single click!
-
----
-
-## 📸 Testing Attendance Right Away
-
-A sample classroom image containing enrolled students is already included in `app/static/uploads/classroom_group_sample.jpg`.
 
 1. Log in as **Faculty** (`faculty` / `faculty123`).
 2. Go to **"Take Attendance"** in the top navigation.
